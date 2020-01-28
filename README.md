@@ -1,3 +1,6 @@
+![Image description](figure.png)
+
+
 ## Compute Digital Terrain Model
 
 Software based on the Cloth Simulation method from [https://github.com/jianboqi/CSF](https://github.com/jianboqi/CSF)
