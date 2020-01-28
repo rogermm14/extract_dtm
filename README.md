@@ -9,7 +9,7 @@ The parameters are adjusted for AOIs of size around 600x600 px (resolution 0.3 m
 
 Dependencies:
 
-- Cloth Simulation Filter from [https://github.com/jianboqi/CSF](https://github.com/jianboqi/CSF)
+- Cloth Simulation Filter from [https://github.com/jianboqi/CSF](https://github.com/jianboqi/CSF). **Note:** See insctructions on _How to use CSF in Python_
 - Morphology tools from [https://github.com/mnhrdt/imscript](https://github.com/mnhrdt/imscript)
 
 To run the software:
@@ -26,7 +26,7 @@ Use **python3 extract_dtm [1 2 3 4 5 6]** to run the software, where:
 
 **5** (float) resolution used to project the cloud on the utm bbox.
 
-**6** (boolean) indicates if intermediate results will be saved. **Note**: Use 0 to set False and 1 to set True.
+**6** (boolean) indicates if intermediate results will be saved. **Note:** Use 0 to set False and 1 to set True.
 
 The output .tif files containing the DTM and DSM will be stored at the output directory.
 
