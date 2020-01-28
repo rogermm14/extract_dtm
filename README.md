@@ -1,4 +1,4 @@
-![Image description](figure.png)
+![exemple](figure.png)
 
 
 ## Compute Digital Terrain Model
