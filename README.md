@@ -10,7 +10,7 @@ To install CSF:
 
 To run the software:
 
-Use **python3 extract_dtm [1 2 3 4 5]** to run the software, where:
+Use **python3 extract_dtm [1 2 3 4 5 6]** to run the software, where:
 
 **1** (string) path to the txt file containing the input point cloud.
 
@@ -28,4 +28,4 @@ The output .tif files containing the DTM and DSM will be stored at the output di
 
 Exemple call:
 
-- `python3 extract_dtm.py test/1_xyz.txt test/1_bb.txt output imscript_bin 0.35 0`
+- `python3 extract_dtm.py test/1_xyz.txt test/1_bb.txt output imscript/bin 0.35 0`
