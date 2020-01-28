@@ -9,7 +9,7 @@ The parameters are adjusted for AOIs of size around 600x600 px (resolution 0.3 m
 
 Dependencies:
 
-- Cloth Simulation Filter from [https://github.com/jianboqi/CSF](https://github.com/jianboqi/CSF). 
+- Cloth Simulation Filter from [https://github.com/jianboqi/CSF](https://github.com/jianboqi/CSF)
 - Morphology tools from [https://github.com/mnhrdt/imscript](https://github.com/mnhrdt/imscript)
 
 To run the software:
