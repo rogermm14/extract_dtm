@@ -28,4 +28,4 @@ The output .tif files containing the DTM and DSM will be stored at the output di
 
 Exemple call:
 
-- `python3 extract_dtm.py test/1_xyz.txt test/1_bb.txt output bin 0.35 0`
+- `python3 extract_dtm.py test/1_xyz.txt test/1_bb.txt output imscript_bin 0.35 0`
