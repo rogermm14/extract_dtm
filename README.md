@@ -18,7 +18,7 @@ Use **python3 extract_dtm [1 2 3 4 5]** to run the software, where:
 
 **3** (string) output directory.
 
-**4** (string) directory containing employed bin
+**4** (string) directory containing [imscript](https://github.com/mnhrdt/imscript) binaries
 
 **5** (float) resolution used to project the cloud on the utm bbox.
 
