@@ -3,13 +3,14 @@
 
 ## Compute Digital Terrain Model
 
-Software based on the Cloth Simulation method from [https://github.com/jianboqi/CSF](https://github.com/jianboqi/CSF)
+Compute the DTM and DSM from the point cloud of a lidar acquisition.
 
 The parameters are adjusted for AOIs of size around 600x600 px (resolution 0.3 m)
 
-To install CSF: 
+Dependencies:
 
-- `pip3 install CSF`
+- Cloth Simulation Filter from [https://github.com/jianboqi/CSF](https://github.com/jianboqi/CSF)
+- Morphology tools from [https://github.com/mnhrdt/imscript](https://github.com/mnhrdt/imscript)
 
 To run the software:
 
